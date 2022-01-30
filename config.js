@@ -41,8 +41,8 @@ global.APIKeys = { // APIKey nya disini
 
 
 // Sticker WM
-global.packname = '© erza bot'
-global.author = 'ig @_sekhaa'
+global.packname = '© ChikoBotz'
+global.author = 'ig @nama.random_'
 
 global.wm = '© ChikoBotz'
 global.wait = '⏳ tunggu permintaan kamu sedang di proses...'
